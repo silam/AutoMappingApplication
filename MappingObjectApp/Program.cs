@@ -6,8 +6,10 @@ Console.WriteLine("Hello, World!");
 
 //Initialize the mapper
 var config = new MapperConfiguration(cfg =>
-        cfg.CreateMap<Employee, EmployeeDTO>()
-    );
+                    cfg.CreateMap<Employee, EmployeeDTO>()
+                    .ForMember(dest => dest.FullName, act => act.MapFrom(src => src.Name))
+                    .ForMember(dest => dest.Dept, act => act.MapFrom(src => src.Department))
+                );
 
 
 Employee emp = new Employee();
@@ -31,5 +33,5 @@ var empDTO = mapper.Map<EmployeeDTO>(emp);
 //empDTO.Department = emp.Department;
 
 
-Console.WriteLine("Name:" + empDTO.Name + ", Salary:" + empDTO.Salary + ", Address:" + empDTO.Address + ", Department:" + empDTO.Department);
+Console.WriteLine("Name:" + empDTO.FullName + ", Salary:" + empDTO.Salary + ", Address:" + empDTO.Address + ", Department:" + empDTO.Dept);
 Console.ReadLine();
