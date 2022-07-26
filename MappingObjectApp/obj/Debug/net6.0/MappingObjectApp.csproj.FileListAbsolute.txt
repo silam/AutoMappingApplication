@@ -1,0 +1,17 @@
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.csproj.AssemblyReference.cache
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.AssemblyInfoInputs.cache
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.AssemblyInfo.cs
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.csproj.CoreCompileInputs.cache
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\MappingObjectApp.exe
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\MappingObjectApp.deps.json
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\MappingObjectApp.runtimeconfig.json
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\MappingObjectApp.dll
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\MappingObjectApp.pdb
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.dll
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\refint\MappingObjectApp.dll
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.pdb
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.genruntimeconfig.cache
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\ref\MappingObjectApp.dll
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\bin\Debug\net6.0\AutoMapper.dll
+C:\DEV\MappingObjectApp\MappingObjectApp\MappingObjectApp\obj\Debug\net6.0\MappingObjectApp.csproj.CopyComplete
